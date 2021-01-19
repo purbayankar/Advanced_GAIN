@@ -6,4 +6,4 @@ The code is taken from (https://github.com/dhanajitb/GAIN-Pytorch) and the code 
 
 The idea is to use Network Deconvolution(https://arxiv.org/abs/1905.11926) model in generator and discriminator to improve the performance.
 
--Network deconvolution code: (https://arxiv.org/abs/1905.11926)
+- Network deconvolution code: (https://arxiv.org/abs/1905.11926)
